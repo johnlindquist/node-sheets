@@ -1,0 +1,13 @@
+{
+  "name": "node-sheets",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {},
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.16.0",
+    "express": "^4.14.1",
+    "googleapis": "^16.1.0",
+    "uuid": "^3.0.1"
+  }
+}
